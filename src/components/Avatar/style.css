@@ -1,0 +1,12 @@
+.wrapper {
+    overflow: hidden;
+}
+.wrapper img {
+    width: 100%;
+}
+.wrapper-variant--circle {
+    border-radius: 50%;
+}
+.wrapper-variant--rounded {
+    border-radius: 10px;
+}
